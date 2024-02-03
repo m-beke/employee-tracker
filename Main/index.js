@@ -10,6 +10,7 @@ inquirer
             choices: ['View Employees', 'View Departments', 'View Roles', 'Add Employee', 'Change Role', 'Add Role'],
         },
     ])
+    
 // This will have the initial prompt for "What do you want to do?"
 start();
 
